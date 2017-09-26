@@ -1,5 +1,6 @@
 {
   "name": "hackernews-react-apollo",
+  "homepage":"https://olusola.github.io/hackernews-react-graphQL/",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
